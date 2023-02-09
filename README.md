@@ -1,5 +1,6 @@
 # MenuExposedDropDown
-MenuExposedDropdown
+MenuExposedDropdown  a UI element that allows users to select an item from a list of options. 
+It is easy to use and integrate with api 
 
 
 
